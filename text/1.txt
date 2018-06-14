@@ -1,0 +1,5 @@
+The To Part option is used to set the target part of the moving or copying entities. The user is enabled to select to place it in the Current Part, Original Part, or Select a Part.
+Please Note: The part Show/Hide Status box is located at the right side of the To Part dropdown menu. If the created surface is not displayed after the Apply button is clicked, the user needs to check if the part is in the display status.
+Reverse Direction: When activated, this option will use a negative surface normal to perform the operation.
+Distance: This is the distance, in the model database units of length, that the new surface will be offset.
+Select the surface illustrated in the following figure as the entity to move and move 2mm along its normal, as illustrated in the following figure. 
